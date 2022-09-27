@@ -7,7 +7,7 @@ Full Stack Web Developer
 I've been coding since last year after changing my career from Commerce to Technology. I started with HTML and CSS and now I'm building E-Commerce websites and a lot of different stuff.
 
 * 🌍  I'm based in Panipat,India
-* 🖥️  See my portfolio at [https://portfolio-shubham-kapoor.netlify.app/](http://portfolio-shubham-kapoor.netlify.app/)
+* 🖥️  See my portfolio at [Shubham kapoor Portfolio](http://portfolio-shubham-kapoor.netlify.app/)
 * ✉️  You can contact me at [kapoorshubham483@gmail.com](mailto:kapoorshubham483@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I am addicted to Coding , Badminton and Sudoku
