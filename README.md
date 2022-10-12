@@ -7,12 +7,16 @@ Full Stack Web Developer
 I've been coding since last year after changing my career from Commerce to Technology. I started with HTML and CSS and now I'm building E-Commerce websites and a lot of different stuff.
 
 * 🌍  I'm based in Panipat,India
-* 🖥️  See my portfolio at [Shubham kapoor Portfolio](http://portfolio-shubham-kapoor.netlify.app/)
+* 🖥️  See my portfolio at [https://portfolio-shubham-kapoor.netlify.app/](http://portfolio-shubham-kapoor.netlify.app/)
 * ✉️  You can contact me at [kapoorshubham483@gmail.com](mailto:kapoorshubham483@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I am addicted to Coding , Badminton and Sudoku
 
+<a href="https://www.github.com/DeveloperShubhamKapoor" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/DeveloperShubhamKapoor?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
+
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -25,6 +29,7 @@ I've been coding since last year after changing my career from Commerce to Techn
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>
 
 
