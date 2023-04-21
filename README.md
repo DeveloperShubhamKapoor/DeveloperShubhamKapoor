@@ -45,7 +45,7 @@ src="https://img.shields.io/github/followers/DeveloperShubhamKapoor?logo=github&
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>GitHub Stats</b>
 
 <div align="center">
 
